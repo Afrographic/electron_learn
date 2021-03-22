@@ -1,0 +1,22 @@
+{
+  "name": "electron_learn",
+  "version": "1.0.0",
+  "description": "\"learning ElectronJS\"",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Afrographic/electron_learn.git"
+  },
+  "author": "Afrographics",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Afrographic/electron_learn/issues"
+  },
+  "homepage": "https://github.com/Afrographic/electron_learn#readme",
+  "devDependencies": {
+    "electron": "^12.0.1"
+  }
+}
